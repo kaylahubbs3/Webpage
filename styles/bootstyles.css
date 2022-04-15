@@ -1,0 +1,29 @@
+.header {
+    top: 5px;
+    left: 5px;
+    right:5px;
+    height: 100px;
+    border-bottom: 1px;
+    border-bottom-color: black;
+    border-bottom-style: solid;
+}
+
+.mainbody {
+    top: 114px;
+    bottom: 64px;
+    width: 500px;
+}
+
+.footer{
+    bottom: 5px;
+    height: 50px;
+    font-size: 10px;
+    text-align: center;
+    font-family: cursive;
+    background-color: hotpink;
+}
+
+.captions {
+    font-family: cursive;
+    background-color: aliceblue;
+}

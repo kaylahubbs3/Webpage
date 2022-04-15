@@ -1,0 +1,20 @@
+.body {
+    background-color: lightgray
+}
+
+.header {
+    text-align: center
+}
+
+.box1 {
+    width: 50px
+    height: 50px
+}
+
+.box2 {
+    color: blue;
+    font-family: cursive;
+    text-align: center;
+    font-size: 25px;
+}
+
